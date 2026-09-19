@@ -1,3 +1,9 @@
+<div align="center">
+
+<a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.ja.md">日本語</a>
+
+</div>
+
 <p align="center">
   <img src="assets/logo.svg" width="64" alt="Recordel logo">
 </p>
@@ -14,7 +20,6 @@
   <a href="https://recordel.com/recorder">Open the Recorder</a> ·
   <a href="#-key-features">Features</a> ·
   <a href="#-privacy--byok">Privacy</a> ·
-  <a href="#-pricing">Pricing</a> ·
   <a href="#-faq">FAQ</a>
 </p>
 
@@ -34,7 +39,7 @@
 - **Hand-drawn annotations** — sketchy arrows, speech bubbles, spotlights and focus zoom to guide viewers' attention.
 - **Multi-track editing** — screen, camera and narration stay on independent tracks; undo anything, anytime.
 - **100% private by design** — your recordings never leave your machine. Nothing is uploaded to a server.
-- **Fast export** — MP4 and GIF in seconds, up to 4K on Pro.
+- **Fast export** — MP4 and GIF in seconds, up to 4K.
 
 ## 📸 Screenshots
 
@@ -44,7 +49,7 @@
 
 ## 🚀 Getting Started
 
-1. Open **[recordel.com/recorder](https://recordel.com/recorder)** — no account download, no desktop app.
+1. Open **[recordel.com/recorder](https://recordel.com/recorder)** — no download, no desktop app.
 2. Pick what to record: full screen, a window, a browser tab, plus camera and audio.
 3. Record, then edit with the AI copilot or by hand on the multi-track timeline.
 4. Export as MP4 or GIF, or share the link.
@@ -54,16 +59,6 @@
 Recordel is **local-first**: recording, transcription (local Whisper) and smart tools all run on your own machine — nothing is uploaded.
 
 For AI-powered editing, Recordel supports **Bring Your Own Key**: connect your own API keys for DeepSeek, Claude, OpenAI, or run fully offline with **Ollama**.
-
-## 💰 Pricing
-
-| | Free | Pro |
-|---|---|---|
-| Screen + camera + audio recording | ✅ | ✅ |
-| Local smart tools (silence trim, click zoom) | ✅ | ✅ |
-| AI editing copilot | Limited | ✅ |
-| Export resolution | up to 1080p | up to **4K** |
-| Pricing | Free | **One-time purchase** (no subscription) |
 
 ## 💡 Use Cases
 
@@ -82,9 +77,6 @@ Nowhere. Files stay on your device — Recordel does not upload your media.
 
 **Which AI providers are supported?**
 DeepSeek, Claude, OpenAI via your own API key (BYOK), or fully offline with Ollama.
-
-**Is there a free plan?**
-Yes — recording and local smart tools are free. Pro is a one-time purchase, not a subscription.
 
 ## 🔗 Links
 
