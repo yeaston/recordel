@@ -82,6 +82,7 @@ BYOK（自分の API キー）で DeepSeek、Claude、OpenAI を利用可能。O
 
 - 🌐 公式サイト：[recordel.com](https://recordel.com)
 - 🎥 レコーダー：[recordel.com/recorder](https://recordel.com/recorder)
+🤝 アフィリエイトプログラム: **[参加はこちら](https://affiliates.creem.io/join/recordel)** — 紹介した売上に対してコミッションを獲得
 
 ## 📄 ライセンス
 

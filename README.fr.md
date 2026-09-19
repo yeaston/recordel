@@ -82,6 +82,7 @@ DeepSeek, Claude, OpenAI avec votre propre clé API (BYOK), ou entièrement hors
 
 - 🌐 Site web : [recordel.com](https://recordel.com)
 - 🎥 Enregistreur : [recordel.com/recorder](https://recordel.com/recorder)
+🤝 Programme d'affiliation: **[rejoindre ici](https://affiliates.creem.io/join/recordel)** — gagnez une commission sur chaque vente recommandée
 
 ## 📄 Licence
 

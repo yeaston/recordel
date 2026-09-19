@@ -82,6 +82,7 @@ AI एडिटिंग के लिए Recordel **BYOK (Bring Your Own Key)**
 
 - 🌐 वेबसाइट: [recordel.com](https://recordel.com)
 - 🎥 रिकॉर्डर: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 एफिलिएट प्रोग्राम: **[यहाँ जुड़ें](https://affiliates.creem.io/join/recordel)** — हर रेफ़र की गई बिक्री पर कमीशन पाएं
 
 ## 📄 लाइसेंस
 

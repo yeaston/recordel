@@ -82,6 +82,7 @@ AI 剪輯支援 **BYOK（自帶 Key）**：接入你自己的 DeepSeek、Claude�
 
 - 🌐 官網：[recordel.com](https://recordel.com)
 - 🎥 錄製器：[recordel.com/recorder](https://recordel.com/recorder)
+🤝 聯盟夥伴計畫: **[點此加入](https://affiliates.creem.io/join/recordel)** — 推薦成交即獲佣金
 
 ## 📄 授權
 

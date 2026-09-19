@@ -82,6 +82,7 @@ DeepSeek, Claude, OpenAI via your own API key (BYOK), or fully offline with Olla
 
 - 🌐 Website: [recordel.com](https://recordel.com)
 - 🎥 Recorder: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 Affiliate program: **[join here](https://affiliates.creem.io/join/recordel)** — earn commission on every sale you refer
 
 ## 📄 License
 

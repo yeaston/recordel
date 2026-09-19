@@ -82,6 +82,7 @@ Kendi API anahtarınızla (BYOK) DeepSeek, Claude, OpenAI; ya da Ollama ile tama
 
 - 🌐 Web sitesi: [recordel.com](https://recordel.com)
 - 🎥 Kaydedici: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 Ortaklık Programı: **[buraya katıl](https://affiliates.creem.io/join/recordel)** — yönlendirdiğiniz her satıştan komisyon kazanın
 
 ## 📄 Lisans
 

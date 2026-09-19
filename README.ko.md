@@ -82,6 +82,7 @@ BYOK(내 API 키)로 DeepSeek, Claude, OpenAI 사용 가능. Ollama로 완전 �
 
 - 🌐 웹사이트: [recordel.com](https://recordel.com)
 - 🎥 레코더: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 제휴 프로그램: **[여기서 참여](https://affiliates.creem.io/join/recordel)** — 추천 판매마다 커미션을 받으세요
 
 ## 📄 라이선스
 

@@ -82,6 +82,7 @@ DeepSeek, Claude, OpenAI qua API key riêng của bạn (BYOK), hoặc hoàn to�
 
 - 🌐 Trang chủ: [recordel.com](https://recordel.com)
 - 🎥 Máy quay: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 Chương trình liên kết: **[tham gia tại đây](https://affiliates.creem.io/join/recordel)** — nhận hoa hồng cho mỗi đơn hàng bạn giới thiệu
 
 ## 📄 Giấy phép
 

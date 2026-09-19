@@ -84,6 +84,7 @@ DeepSeek وClaude وOpenAI بمفتاح API الخاص بك (BYOK)، أو بال
 
 - 🌐 الموقع: [recordel.com](https://recordel.com)
 - 🎥 المسجّل: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 برنامج الشركاء: **[انضم هنا](https://affiliates.creem.io/join/recordel)** — احصل على عمولة عن كل عملية بيع تُحيلها
 
 ## 📄 الترخيص
 

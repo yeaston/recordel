@@ -82,6 +82,7 @@ DeepSeek, Claude, OpenAI dengan API key sendiri (BYOK), atau sepenuhnya offline 
 
 - 🌐 Situs web: [recordel.com](https://recordel.com)
 - 🎥 Perekam: [recordel.com/recorder](https://recordel.com/recorder)
+🤝 Program afiliasi: **[gabung di sini](https://affiliates.creem.io/join/recordel)** — dapatkan komisi dari setiap penjualan yang kamu rujuk
 
 ## 📄 Lisensi
 
